@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 # ignore sublime text project file(s)
-.sublime-project
-.sublime-workspace
+*.sublime-project
+*.sublime-workspace
+
 
